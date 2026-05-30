@@ -52,15 +52,14 @@ const projects = [
     title: "App Kasir Coffee & Eatery",
     description:
       "Aplikasi kasir berbasis web untuk mengelola transaksi, produk, total pembayaran, dan riwayat penjualan secara efisien.",
-    image: "/projects/app-kasir/cashier-app.png",
+    image: "/projects/kasircafe/kasir-guest.png",
 
     // Gambar-gambar yang tampil saat tombol Galeri diklik
     galleryImages: [
-      "/projects/app-kasir/cashier-app.png",
-      "/projects/app-kasir/simrs.png",
-      "/projects/app-kasir/dokter.png",
-      "/projects/app-kasir/pasien.png",
-      "/projects/app-kasir/antrean.png",
+      "/projects/kasircafe/transaction1.png",
+      "/projects/kasircafe/login.png",
+      "/projects/kasircafe/transaction2.png",
+      "/projects/kasircafe/logTransaction.png",
     ],
 
     stacks: ["React", "TypeScript", "Node.js", "MySQL"],
@@ -88,17 +87,17 @@ const projects = [
     repoUrl: "https://github.com/Stussyz/SIMRS-compactVersionFrontend.git",
   },
   {
-    title: "Inventory Management",
+    title: "Sistem Manajemen Parkir",
     description:
-      "Aplikasi manajemen stok barang untuk membantu proses pencatatan produk masuk, produk keluar, dan monitoring persediaan.",
-    image: "/projects/inventory-system.png",
+      "Aplikasi manajemen parkir berbasis web untuk mengelola slot parkir secara real-time, menangani transaksi parkir, dan laporan pendapatan secara efisien.",
+    image: "/projects/parking-system.png",
 
     // Untuk sementara dibuat dari gambar yang sama agar tombol Galeri tetap aman
     // Nanti bisa kamu ganti dengan screenshot inventory yang asli
     galleryImages: [
-      "/projects/inventory-system.png",
-      "/projects/inventory-system.png",
-      "/projects/inventory-system.png",
+      "/projects/parking-system.png",
+      "/projects/parking-system.png",
+      "/projects/parking-system.png",
     ],
 
     stacks: ["Next.js", "MongoDB", "Node.js"],
