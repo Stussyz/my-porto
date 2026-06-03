@@ -95,14 +95,14 @@ const projects = [
     // Untuk sementara dibuat dari gambar yang sama agar tombol Galeri tetap aman
     // Nanti bisa kamu ganti dengan screenshot inventory yang asli
     galleryImages: [
-      "/projects/parking-system.png",
-      "/projects/parking-system.png",
-      "/projects/parking-system.png",
+      "/projects/parkir/parkir1.png",
+      "/projects/parkir/parkir2.png",
+      "/projects/parkir/parkir3.png",
     ],
 
     stacks: ["Next.js", "MongoDB", "Node.js"],
-    demoUrl: "#",
-    repoUrl: "#",
+    demoUrl: "https://parking-management-liard-eta.vercel.app/",
+    repoUrl: "https://github.com/Stussyz/Parking-management.git",
   },
 ];
 
