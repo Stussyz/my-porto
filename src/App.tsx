@@ -90,12 +90,11 @@ const projects = [
     title: "Sistem Manajemen Parkir",
     description:
       "Aplikasi manajemen parkir berbasis web untuk mengelola slot parkir secara real-time, menangani transaksi parkir, dan laporan pendapatan secara efisien.",
-    image: "/projects/parking-system.png",
+    image: "/projects/parkir/parkir1.png",
 
     // Untuk sementara dibuat dari gambar yang sama agar tombol Galeri tetap aman
     // Nanti bisa kamu ganti dengan screenshot inventory yang asli
     galleryImages: [
-      "/projects/parkir/parkir1.png",
       "/projects/parkir/parkir2.png",
       "/projects/parkir/parkir3.png",
     ],
